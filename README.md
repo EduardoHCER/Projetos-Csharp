@@ -19,13 +19,13 @@ Anotações Importantes para estudo!
   git commit -m "Descrição do commit"
 ​
 **Configurar repositório remoto (endereço do seu repositório)
-  git remote add origin https://github.com/dideconto/teste.git
+  git remote add origin https://github.com/EduardoHCER/Projetos-Csharp
 ​
 **Enviar commits para o repositório remoto
   git push
 ​
 **Clonar repositório remoto
-  git clone https://github.com/dideconto/teste.git
+  git clone https://github.com/EduardoHCER/Projetos-Csharp
 ​
 **Requisitar novas atualizações do repositório
   git pull
